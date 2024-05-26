@@ -33,7 +33,9 @@ async function AllGitaChaptersSummaries() {
 
   return (
     <div>
-      <h2>Bhagavad Gita Chapters' Summaries भगवत गीता अध्यायों का सारांश</h2>
+      <h2>
+        Bhagavad Gita Chapters&apos; Summaries भगवत गीता अध्यायों का सारांश
+      </h2>
       <p>
         Data source: https://gql.bhagavadgita.io/graphql. Data fetched using
         Apollo Client
